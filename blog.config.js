@@ -4,7 +4,7 @@ const BLOG = {
   email: 'cgfever@gmail.com',
   link: 'https://cc.sres.life',
   description: '知识改变命运',
-  lang: 'en-US',
+  lang: 'zh-cn',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
